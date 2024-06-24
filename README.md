@@ -1,2 +1,2 @@
 # Intro-Programacion
-Introducción a la Programación - I Semestre 2022 TEC
+Introducción a la Programación y Taller de Programación - I Semestre 2022 TEC
